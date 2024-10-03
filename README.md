@@ -9,7 +9,7 @@ The **Procurement Management System** is a web-based Spring Boot application des
 - **Inventory Management**: Enable admins to review quotations based on inventory availability.
 - **Bid Evaluation**: Provide buyers with real-time bidding information to evaluate and select the most suitable bids.
 - **Invoice Generation**: Automatically generate invoices when bids are approved.
-- **Automated Notifications**: Implement email alerts for various operations, including invoice generation.
+- **Automated Notifications**: Implement email alerts for invoice generation.
 
 ## Key Features
 
